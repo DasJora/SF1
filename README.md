@@ -1,2 +1,2 @@
 # SkillFactory-module-A4
-TestBranch SkillFactory module A4
+TestGraphBr SkillFactory module A4
